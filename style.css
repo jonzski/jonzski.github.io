@@ -1,0 +1,44 @@
+/* 
+ This is a css file for the page
+ Reference to the layout: https://codepen.io/demmy_abs/pen/LYBLjBV
+*/
+
+body{
+    margin: 0;
+    padding: 0;
+    background-color: #2e476a;
+  }
+
+.box{
+    width: 450px;
+    background: rgba(0, 0, 0, 0.4);
+    padding: 40px;
+    text-align: center;
+    margin: auto;
+    margin-top: 5%;
+    color: white;
+    font-family: 'Century Gothic',sans-serif;
+}
+.box-img{
+    border-radius: 50%;
+    width: 200px;
+    height: 200px;
+}
+
+.box h1{
+    font-size: 40px;
+    letter-spacing: 4px;
+    font-weight: 100;
+}
+
+.box h5{
+    font-size: 20px;
+    letter-spacing: 3px;
+    font-weight: 100;
+}
+  
+.box p{
+    text-align: justify;
+}
+
+  
