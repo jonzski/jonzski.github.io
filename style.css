@@ -7,7 +7,18 @@ body{
     margin: 0;
     padding: 0;
     background-color: #2e476a;
-  }
+    text-align: center;
+}
+h1 {
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 72px;
+}
 
+h5 {
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 48px;
+}
 
   
